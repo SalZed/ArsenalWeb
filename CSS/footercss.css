@@ -1,0 +1,21 @@
+body{
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+#sticky {
+  width:100%;
+  padding:20px;
+  padding-bottom:16px;
+  background:#EF0107;
+  color:white;
+  font-weight:bold;
+  font-size:18px;
+  text-align:center;
+  position:relative; 
+  border-top:1px solid whitesmoke;
+float:left;
+padding-left:100px;
+padding-right:100px;
+right:10%;
+ 
+}
